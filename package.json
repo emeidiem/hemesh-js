@@ -1,0 +1,20 @@
+{
+  "name": "hemesh-js",
+  "version": "0.0.0",
+  "description": "a javascript clone of the amazing HE_Mesh library by @wblut ( hemesh.wblut.com )",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/billautomata/hemesh-js.git"
+  },
+  "author": "@billautomata",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/billautomata/hemesh-js/issues"
+  },
+  "homepage": "https://github.com/billautomata/hemesh-js",
+  "dependencies": {}
+}
