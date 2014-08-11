@@ -1,2 +1,3 @@
-var EPSILON = 0.0000001;
+var EPSILON = 0.000001;
+
 exports.EPSILON = EPSILON;

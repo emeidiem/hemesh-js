@@ -15,6 +15,7 @@
   "unused": "vars",
   "maxlen": 80,
   "asi": true,
+  "node": true,
 
   "browser": true,
   "globals": {
