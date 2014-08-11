@@ -4,7 +4,7 @@
   "description": "a javascript clone of the amazing HE_Mesh library by @wblut ( hemesh.wblut.com )",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,7 @@
     "url": "https://github.com/billautomata/hemesh-js/issues"
   },
   "homepage": "https://github.com/billautomata/hemesh-js",
-  "dependencies": {}
+  "dependencies": {
+    "jstest": "~1.0.5"
+  }
 }

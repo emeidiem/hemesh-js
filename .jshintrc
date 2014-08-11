@@ -20,6 +20,9 @@
   "browser": true,
   "globals": {
     "define": false,
-    "require": false
+    "require": false,
+    "it": true,
+    "before": true,
+    "assert": true
   }
 }
